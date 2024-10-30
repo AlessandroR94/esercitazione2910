@@ -33,6 +33,7 @@ img, p, h1, h5, h2, h3, li, a, ol {
 header {
     text-align: center;
     margin: 0;
+    margin-top: 5px;
 }
 
 header img {
@@ -47,6 +48,7 @@ header img {
       padding: 10px 0;
       border-top: 2px solid;
       border-color: rgb(248, 252, 18);
+      margin-top: 10px;
 }
 
 .featin {
@@ -79,4 +81,8 @@ li {
 
 .last {
     text-align: center;
+}
+
+main {
+    margin-top: 30px;
 }
